@@ -9,4 +9,11 @@ Repository to capture outputs and host additional discussion around the creation
 
 Please post an issue with here as I think it will be easier to track individual comments and feedback. At the moment I'm using Google Slides to organise the documentation but it doesn't offer a great way to host discussions (can't easily comment on individual items or suggest new slides).
 
+## Related Work
+
+* See [Oil and Water: When Data Licences Don't Mix](https://www.slideshare.net/ldodds/oil-and-water-when-data-licences-dont-mix) for an earlier attempt to visualise remixing of datasets. 
+* [Data ecosystem mapping](https://blog.ldodds.com/2017/03/13/some-tips-for-open-data-ecosystem-mapping/) mapping value networks related to the exchange and use of data. This focuses on a different aspect of diagramming data.
+
+## LICENCE
+
 The work is published under a CC-BY 4.0 licence. So any contributions you make will be similarly licensed.
