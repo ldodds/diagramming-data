@@ -11,8 +11,11 @@ Please post an issue with here as I think it will be easier to track individual 
 
 ## Related Work
 
-* See [Oil and Water: When Data Licences Don't Mix](https://www.slideshare.net/ldodds/oil-and-water-when-data-licences-dont-mix) for an earlier attempt to visualise remixing of datasets. 
-* [Data ecosystem mapping](https://blog.ldodds.com/2017/03/13/some-tips-for-open-data-ecosystem-mapping/) mapping value networks related to the exchange and use of data. This focuses on a different aspect of diagramming data.
+* See [Oil and Water: When Data Licences Don't Mix](https://www.slideshare.net/ldodds/oil-and-water-when-data-licences-dont-mix) for an earlier attempt to visualise remixing of datasets
+
+* [Data ecosystem mapping](https://blog.ldodds.com/2017/03/13/some-tips-for-open-data-ecosystem-mapping/) mapping value networks related to the exchange and use of data. This focuses on a different aspect of diagramming data
+
+* [Data Flow Diagrams](https://en.wikipedia.org/wiki/Data_flow_diagram) are an existing notation, which covers functions, inputs, outputs, and flows. The notation in this project doesn't describe inputs/outputs, only flows between datasets. DFD notation also doesn't use shape or size as a means to convey information about a function, or define any basic primitives. 
 
 ## LICENCE
 
